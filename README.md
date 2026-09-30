@@ -1,5 +1,9 @@
 # Customer Churn Prediction using ANN
 
+## 🚀 Live Demo
+
+👉 **[Click Here to Try the Live App](https://ann-classification-churn-b598tkz3yfj5ezaphuz3rz.streamlit.app/)**
+
 ## 📌 Overview
 
 This project is an end-to-end **Customer Churn Classification** system built using an **Artificial Neural Network (ANN)** with TensorFlow/Keras.
@@ -64,5 +68,3 @@ Model Evaluation
 Model Saving
  ↓
 Streamlit Deployment
-
-**Live Demo:** https://ann-classification-churn-b598tkz3yfj5ezaphuz3rz.streamlit.app/
