@@ -65,4 +65,4 @@ Model Saving
  ↓
 Streamlit Deployment
 
-**Live Demo:** https://ann-classification-churn-b598tkz3yfj5ezaphuz3rz.streaml
+**Live Demo:** https://ann-classification-churn-b598tkz3yfj5ezaphuz3rz.streamlit.app/
